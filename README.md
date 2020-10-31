@@ -1,14 +1,8 @@
 ### Hello World, I am Tandrima!! 👋
 
-<!--
-**tandrima16/tandrima16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. - 🔭 I’m currently working on ... - 👯 I’m looking to collaborate on ...- 🤔 
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: 
-- ⚡ Fun fact: ...
 
-
-
-
-- 🌱 I’m currently learning Data Science and Web Development
+- 🔭 I’m currently a student.
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/tandrima-goswami-b0b284190/)
+- 😄 Pronouns: She/Her
+- 🌱 I’m currently learning Data Science and Web Development.
 
