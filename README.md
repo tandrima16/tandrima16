@@ -6,5 +6,4 @@
 - 😄 Pronouns: She/Her
 - 🌱 I’m currently learning Data Science and Web Development.
 
-<img src="https://www.cleanpng.com/png-professional-python-programmer-computer-programmin-5230427/preview.html" width="32" height="32">
 
